@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Employee-app-mern/static/css/main.e324aa96.css",
+    "main.js": "/Employee-app-mern/static/js/main.fcff95cb.js",
+    "static/js/787.445d4394.chunk.js": "/Employee-app-mern/static/js/787.445d4394.chunk.js",
+    "index.html": "/Employee-app-mern/index.html",
+    "main.e324aa96.css.map": "/Employee-app-mern/static/css/main.e324aa96.css.map",
+    "main.fcff95cb.js.map": "/Employee-app-mern/static/js/main.fcff95cb.js.map",
+    "787.445d4394.chunk.js.map": "/Employee-app-mern/static/js/787.445d4394.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e324aa96.css",
+    "static/js/main.fcff95cb.js"
+  ]
+}
